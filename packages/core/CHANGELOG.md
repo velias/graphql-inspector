@@ -1,5 +1,12 @@
 # @graphql-inspector/core
 
+## 4.0.0
+
+### Major Changes
+
+- [`5734b921`](https://github.com/kamilkisiela/graphql-inspector/commit/5734b921a88e0fd76cb9493e39e88520db242de9)
+  Thanks [@velias](https://github.com/velias)! - fix: core bump to patch coverage
+
 ## 3.5.1
 
 ### Patch Changes
